@@ -31,9 +31,4 @@ Here are some ideas to get you started:
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jemsmainali&theme=onedark&no-frame=true&column=4" alt="trophy" />
-  </a>
-</p>
+
