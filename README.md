@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Nischal! 👋
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jemsmainali&show_icons=true&theme=vision-dark&hide_border=true&count_private=true" alt="Nischal's Stats" />
-</p>
 
 ---
 
