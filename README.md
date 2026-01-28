@@ -77,8 +77,8 @@
 ## 🌐 Connect With Me
 
 - 💼 GitHub: https://github.com/jemsmainali
-- 💬 LinkedIn: *(add when ready)*
-- 📧 Email: *(optional)*
+- 💬 LinkedIn: https://www.linkedin.com/in/nischal-mainali/
+- 📧 Email: jemsmainali@gmail.com
 
 ---
 
