@@ -38,42 +38,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🛒 Django E-Commerce Website
-- User authentication
-- Product listing & cart
-- Order system
-- Admin panel  
-🔗 **Repo:** https://github.com/jemsmainali/Internship-py
-
----
-
-### 🧩 CRUD Web Application (Django)
-- Create / Update / Delete posts
-- Authentication
-- Clean UI  
-🔗 **Repo:** https://github.com/jemsmainali
-
----
-
-### ⚡ FastAPI REST APIs
-- SQLAlchemy integration
-- Dependency injection
-- API documentation  
-🔗 **Repo:** https://github.com/jemsmainali
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jemsmainali&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jemsmainali&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 GitHub: https://github.com/jemsmainali
